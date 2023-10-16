@@ -41,7 +41,6 @@ public typealias DescendExpandSure = (_ nvlveMathChoice : Any) ->()
 public typealias FrwrdShouldSort = () ->()
 public typealias ReplcteExitPrompt = (Bool) ->()
 
-public let EventSimpleSnapshot = 1697505786
 public let CmbneUnlikeWarn = "http://www.fatis.work"
 public let CrnerLeadingGreen = 326
 public let MxmmUponDevice = "6467732459"
