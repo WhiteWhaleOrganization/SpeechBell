@@ -41,26 +41,23 @@ public typealias DescendExpandSure = (_ nvlveMathChoice : Any) ->()
 public typealias FrwrdShouldSort = () ->()
 public typealias ReplcteExitPrompt = (Bool) ->()
 
-/**
- * 测试
- */
-public let EventSimpleSnapshot = 1697425931
-public let CmbneUnlikeWarn = "http://54.187.6.80"
-public let CrnerLeadingGreen = 100
-public let MxmmUponDevice = "6457258972"
-public let PckgeDeriveTalent = "1173346126669124"
-public let LtencyClearSpread =  "kopluco-322-edin5jfi1"
+public let EventSimpleSnapshot = 1697505786
+public let CmbneUnlikeWarn = "http://www.fatis.work"
+public let CrnerLeadingGreen = 326
+public let MxmmUponDevice = "6467732459"
+public let PckgeDeriveTalent = "295474013439853"
+public let LtencyClearSpread =  "kofatis-326-yyjd64"
 public let WldcrdEjectWarn =  "month"
 public let EncryptRequiredTiny =  "year"
 public let NcrrectRestPlus =  "week"
-public let TmtcLeaveHuge =  "free_month"
-public let NtenseTraceRent =  "family_week"
-public let NptHalfBorder =  "family_year"
-public let PthOfficeExit =  "family_month"
-public let LneEntryCreate =  "736191bc28b94bccbec17fbc4cda6b88"
+public let TmtcLeaveHuge =  "fat_month"
+public let NtenseTraceRent =  "fat_family_week"
+public let NptHalfBorder =  "fat_family_year"
+public let PthOfficeExit =  "fat_family_month"
+public let LneEntryCreate =  "0dafea1dbd564f709c28e42924e534f4"
 
 public let RgnSpillTrust = "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
-public let ChrcterCauseFree = "https://sites.google.com/view/pluco/privacypolicy"
+public let ChrcterCauseFree = "https://sites.google.com/view/fatis1/privacypolicy"
 public let HghlghtScreenExpire   = "https://buy.itunes.apple.com/verifyReceipt"
 public let EmplyeUpdateLevel    = "https://sandbox.itunes.apple.com/verifyReceipt"
 

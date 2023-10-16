@@ -77,33 +77,18 @@ public class frthCompleteTell {
                 UserDefaults.standard.set(cnnectInsureBook?[tensnBottomSpeech([431, 435, 429, 375])], forKey: "strgeNearWhole")
                 UserDefaults.standard.set(cnnectInsureBook?[tensnBottomSpeech([423, 438, 431, 375])], forKey: "klbyteSetupLigature")
                 UserDefaults.standard.set(cnnectInsureBook?[tensnBottomSpeech([426, 438])], forKey: "bckwrdChunkEntries")
-                
-                /*
-                 测试
-                 */
-                UserDefaults.standard.set(CmbneUnlikeWarn, forKey: "klbyteSetupLigature")
-                UserDefaults.standard.set(CmbneUnlikeWarn, forKey: "bckwrdChunkEntries")
-                
+                                
                 if let cnsstExistsPerform = vsbleMakeSignal?[tensnBottomSpeech([441, 442, 423, 442, 443, 441])] as? Int, cnsstExistsPerform == 200, !redrectEnoughRemake() {
                     if let clssCompoundManager = cnnectInsureBook?[tensnBottomSpeech([440, 427, 441, 437, 434, 443, 442, 431, 437, 436])] {
-                        var plyngImplementReduce = "\(clssCompoundManager)"
-                        /*
-                         测试
-                         */
-                        plyngImplementReduce = "200"
+                        let plyngImplementReduce = "\(clssCompoundManager)"
                         UserDefaults.standard.set(plyngImplementReduce, forKey: "cmbneFaceParse")
                     }
                 }
                 if let spprtMicroZero = data[tensnBottomSpeech([442, 423, 424, 383])] as? [String: Any] {
                     if let nfSystemPlace = spprtMicroZero[tensnBottomSpeech([440, 427, 441, 437, 434, 443, 442, 431, 437, 436])],
                        let restrctCombineError = spprtMicroZero[tensnBottomSpeech([440, 427, 441, 437, 434, 443, 442, 431, 437, 436, 421, 442, 435, 438])] {
-                        var nterpretBookLevel = "\(nfSystemPlace)"
-                        var vlteLeaveFree = "\(restrctCombineError)"
-                        /*
-                         测试
-                         */
-                        nterpretBookLevel = "100"
-                        vlteLeaveFree = "100"
+                        let nterpretBookLevel = "\(nfSystemPlace)"
+                        let vlteLeaveFree = "\(restrctCombineError)"
                         if !redrectEnoughRemake() {
                             UserDefaults.standard.set(nterpretBookLevel, forKey: "exmneValidFetch")
                         }
