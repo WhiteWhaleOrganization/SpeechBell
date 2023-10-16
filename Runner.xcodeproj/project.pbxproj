@@ -1,0 +1,790 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		014EBCD02ADD191200089A37 /* mgicTape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC702ADD191200089A37 /* mgicTape.swift */; };
+		014EBCD12ADD191200089A37 /* tdyPurposeEcho.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC712ADD191200089A37 /* tdyPurposeEcho.swift */; };
+		014EBCD22ADD191200089A37 /* writThroughPort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC722ADD191200089A37 /* writThroughPort.swift */; };
+		014EBCD32ADD191200089A37 /* xcptFactoryFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC742ADD191200089A37 /* xcptFactoryFont.swift */; };
+		014EBCD42ADD191200089A37 /* prfixPresentHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC752ADD191200089A37 /* prfixPresentHost.swift */; };
+		014EBCD52ADD191200089A37 /* frthIdentifyItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC762ADD191200089A37 /* frthIdentifyItem.swift */; };
+		014EBCD62ADD191200089A37 /* stpEvaluateStay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC772ADD191200089A37 /* stpEvaluateStay.swift */; };
+		014EBCD72ADD191200089A37 /* limitBackwardJust.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC782ADD191200089A37 /* limitBackwardJust.swift */; };
+		014EBCD82ADD191200089A37 /* csIndustryCopy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC792ADD191200089A37 /* csIndustryCopy.swift */; };
+		014EBCD92ADD191200089A37 /* gidAnnounceBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC7A2ADD191200089A37 /* gidAnnounceBase.swift */; };
+		014EBCDA2ADD191200089A37 /* lpsAnnounceTrim.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC7B2ADD191200089A37 /* lpsAnnounceTrim.swift */; };
+		014EBCDB2ADD191200089A37 /* ngtEllipsisKilo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC7C2ADD191200089A37 /* ngtEllipsisKilo.swift */; };
+		014EBCDC2ADD191200089A37 /* grnHistoryBoth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC7D2ADD191200089A37 /* grnHistoryBoth.swift */; };
+		014EBCDD2ADD191200089A37 /* dcidLinkageDrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC7F2ADD191200089A37 /* dcidLinkageDrum.swift */; };
+		014EBCDE2ADD191200089A37 /* drivWork.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC802ADD191200089A37 /* drivWork.swift */; };
+		014EBCDF2ADD191200089A37 /* hbitFilenameLast.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC812ADD191200089A37 /* hbitFilenameLast.swift */; };
+		014EBCE02ADD191200089A37 /* rrdAmpersandMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC822ADD191200089A37 /* rrdAmpersandMode.swift */; };
+		014EBCE12ADD191200089A37 /* bttmAddressRate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC832ADD191200089A37 /* bttmAddressRate.swift */; };
+		014EBCE22ADD191200089A37 /* rsReinstateShut.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC842ADD191200089A37 /* rsReinstateShut.swift */; };
+		014EBCE32ADD191200089A37 /* thrCombineRate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC852ADD191200089A37 /* thrCombineRate.swift */; };
+		014EBCE42ADD191200089A37 /* vlCriterionSave.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC862ADD191200089A37 /* vlCriterionSave.swift */; };
+		014EBCE52ADD191200089A37 /* firstCurrentRead.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC872ADD191200089A37 /* firstCurrentRead.swift */; };
+		014EBCE62ADD191200089A37 /* invntEquipmentCash.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC882ADD191200089A37 /* invntEquipmentCash.swift */; };
+		014EBCE72ADD191200089A37 /* dlyUnderlineMean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC892ADD191200089A37 /* dlyUnderlineMean.swift */; };
+		014EBCE82ADD191200089A37 /* tgglReferenceFree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC8A2ADD191200089A37 /* tgglReferenceFree.swift */; };
+		014EBCE92ADD191200089A37 /* qDiscussLeft.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC8B2ADD191200089A37 /* qDiscussLeft.swift */; };
+		014EBCEA2ADD191200089A37 /* wrInterveneShip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC8C2ADD191200089A37 /* wrInterveneShip.swift */; };
+		014EBCEB2ADD191200089A37 /* sbstInitiateWise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC8D2ADD191200089A37 /* sbstInitiateWise.swift */; };
+		014EBCEC2ADD191200089A37 /* rstRedefineYear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC8E2ADD191200089A37 /* rstRedefineYear.swift */; };
+		014EBCED2ADD191200089A37 /* mrginCompanyFace.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC902ADD191200089A37 /* mrginCompanyFace.swift */; };
+		014EBCEE2ADD191200089A37 /* jctUnknownNull.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC912ADD191200089A37 /* jctUnknownNull.swift */; };
+		014EBCEF2ADD191200089A37 /* prfixThen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC922ADD191200089A37 /* prfixThen.swift */; };
+		014EBCF02ADD191200089A37 /* strngAccidentMean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC932ADD191200089A37 /* strngAccidentMean.swift */; };
+		014EBCF12ADD191200089A37 /* pnlSemicolonWish.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC942ADD191200089A37 /* pnlSemicolonWish.swift */; };
+		014EBCF22ADD191200089A37 /* srisMidnightFlow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC952ADD191200089A37 /* srisMidnightFlow.swift */; };
+		014EBCF32ADD191200089A37 /* ffctExcludeAlso.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC962ADD191200089A37 /* ffctExcludeAlso.swift */; };
+		014EBCF42ADD191200089A37 /* prstExtractItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC972ADD191200089A37 /* prstExtractItem.swift */; };
+		014EBCF52ADD191200089A37 /* mgicViolateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC992ADD191200089A37 /* mgicViolateView.swift */; };
+		014EBCF62ADD191200089A37 /* pstFilenameBand.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC9A2ADD191200089A37 /* pstFilenameBand.swift */; };
+		014EBCF72ADD191200089A37 /* btTraverseKind.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC9B2ADD191200089A37 /* btTraverseKind.swift */; };
+		014EBCF82ADD191200089A37 /* kypdDisappearHard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC9C2ADD191200089A37 /* kypdDisappearHard.swift */; };
+		014EBCF92ADD191200089A37 /* intndMessageNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC9D2ADD191200089A37 /* intndMessageNote.swift */; };
+		014EBCFA2ADD191200089A37 /* drivWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC9E2ADD191200089A37 /* drivWord.swift */; };
+		014EBCFB2ADD191200089A37 /* prmitSuspendOnto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBC9F2ADD191200089A37 /* prmitSuspendOnto.swift */; };
+		014EBCFC2ADD191200089A37 /* bjctMagentaLess.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCA02ADD191200089A37 /* bjctMagentaLess.swift */; };
+		014EBCFD2ADD191200089A37 /* crssInstructNull.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCA12ADD191200089A37 /* crssInstructNull.swift */; };
+		014EBCFE2ADD191200089A37 /* drivTensionFlag.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCA22ADD191200089A37 /* drivTensionFlag.swift */; };
+		014EBCFF2ADD191200089A37 /* lrgRetrieveGive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCA32ADD191200089A37 /* lrgRetrieveGive.swift */; };
+		014EBD002ADD191200089A37 /* thghInstantRule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCA52ADD191200089A37 /* thghInstantRule.swift */; };
+		014EBD012ADD191200089A37 /* srchCompactCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCA62ADD191200089A37 /* srchCompactCell.swift */; };
+		014EBD022ADD191200089A37 /* mrktUnshiftSide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCA72ADD191200089A37 /* mrktUnshiftSide.swift */; };
+		014EBD032ADD191200089A37 /* clickAdvanceWait.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCA82ADD191200089A37 /* clickAdvanceWait.swift */; };
+		014EBD042ADD191200089A37 /* grnContentWait.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCA92ADD191200089A37 /* grnContentWait.swift */; };
+		014EBD052ADD191200089A37 /* flshSubscriptPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCAA2ADD191200089A37 /* flshSubscriptPath.swift */; };
+		014EBD062ADD191200089A37 /* lpsInterestHere.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCAB2ADD191200089A37 /* lpsInterestHere.swift */; };
+		014EBD072ADD191200089A37 /* windwBackwardBeep.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCAC2ADD191200089A37 /* windwBackwardBeep.swift */; };
+		014EBD082ADD191200089A37 /* middlSqueezeCrop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCAD2ADD191200089A37 /* middlSqueezeCrop.swift */; };
+		014EBD092ADD191200089A37 /* prgMinimumDisk.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCAE2ADD191200089A37 /* prgMinimumDisk.swift */; };
+		014EBD0A2ADD191200089A37 /* chrtTransformView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCAF2ADD191200089A37 /* chrtTransformView.swift */; };
+		014EBD0B2ADD191200089A37 /* frcWelcomeLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCB02ADD191200089A37 /* frcWelcomeLine.swift */; };
+		014EBD0C2ADD191200089A37 /* qNumerousTape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCB12ADD191200089A37 /* qNumerousTape.swift */; };
+		014EBD0D2ADD191200089A37 /* fifthSpecificTrue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCB22ADD191200089A37 /* fifthSpecificTrue.swift */; };
+		014EBD0E2ADD191200089A37 /* lvlProduceRoot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCB32ADD191200089A37 /* lvlProduceRoot.swift */; };
+		014EBD0F2ADD191200089A37 /* frthCompleteTell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCB42ADD191200089A37 /* frthCompleteTell.swift */; };
+		014EBD102ADD191200089A37 /* srchControlThen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCB52ADD191200089A37 /* srchControlThen.swift */; };
+		014EBD112ADD191200089A37 /* sttParagraphMega.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCB62ADD191200089A37 /* sttParagraphMega.swift */; };
+		014EBD122ADD191200089A37 /* ftnPentiumHard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCB72ADD191200089A37 /* ftnPentiumHard.swift */; };
+		014EBD132ADD191200089A37 /* mltiSeamlessHold.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCBA2ADD191200089A37 /* mltiSeamlessHold.swift */; };
+		014EBD142ADD191200089A37 /* psSeparateCore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCBB2ADD191200089A37 /* psSeparateCore.swift */; };
+		014EBD152ADD191200089A37 /* xtndNecessaryBack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCBD2ADD191200089A37 /* xtndNecessaryBack.swift */; };
+		014EBD162ADD191200089A37 /* crzInterfaceWide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCBE2ADD191200089A37 /* crzInterfaceWide.swift */; };
+		014EBD172ADD191200089A37 /* rdrwFragmentDisc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCBF2ADD191200089A37 /* rdrwFragmentDisc.swift */; };
+		014EBD182ADD191200089A37 /* chngRequireSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCC02ADD191200089A37 /* chngRequireSize.swift */; };
+		014EBD192ADD191200089A37 /* wrCollapseHang.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCC12ADD191200089A37 /* wrCollapseHang.swift */; };
+		014EBD1A2ADD191200089A37 /* tchConfusePlus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCC22ADD191200089A37 /* tchConfusePlus.swift */; };
+		014EBD1B2ADD191200089A37 /* crsAccuracySize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCC32ADD191200089A37 /* crsAccuracySize.swift */; };
+		014EBD1C2ADD191200089A37 /* strmContrastGain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCC42ADD191200089A37 /* strmContrastGain.swift */; };
+		014EBD1D2ADD191200089A37 /* slidCircuitMega.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCC52ADD191200089A37 /* slidCircuitMega.swift */; };
+		014EBD1E2ADD191200089A37 /* dmgDescribeHeap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCC62ADD191200089A37 /* dmgDescribeHeap.swift */; };
+		014EBD1F2ADD191200089A37 /* lrnRespondCall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCC72ADD191200089A37 /* lrnRespondCall.swift */; };
+		014EBD202ADD191200089A37 /* mgicStay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCC82ADD191200089A37 /* mgicStay.swift */; };
+		014EBD212ADD191200089A37 /* ntrAlignmentTurn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCC92ADD191200089A37 /* ntrAlignmentTurn.swift */; };
+		014EBD222ADD191200089A37 /* mdlCompanyUpon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCCA2ADD191200089A37 /* mdlCompanyUpon.swift */; };
+		014EBD232ADD191200089A37 /* shrInquiryRoll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCCB2ADD191200089A37 /* shrInquiryRoll.swift */; };
+		014EBD242ADD191200089A37 /* lrnRespondSend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCCD2ADD191200089A37 /* lrnRespondSend.swift */; };
+		014EBD252ADD191200089A37 /* brwsThroughRoll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCCE2ADD191200089A37 /* brwsThroughRoll.swift */; };
+		014EBD262ADD191200089A37 /* clickContrastCopy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014EBCCF2ADD191200089A37 /* clickContrastCopy.swift */; };
+		0171EB592AD3AE81004CDEFD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0171EB582AD3AE81004CDEFD /* AppDelegate.swift */; };
+		0171EB5D2AD3AE81004CDEFD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0171EB5C2AD3AE81004CDEFD /* ViewController.swift */; };
+		0171EB602AD3AE81004CDEFD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0171EB5E2AD3AE81004CDEFD /* Main.storyboard */; };
+		0171EB622AD3AE83004CDEFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0171EB612AD3AE83004CDEFD /* Assets.xcassets */; };
+		0171EB652AD3AE83004CDEFD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0171EB632AD3AE83004CDEFD /* LaunchScreen.storyboard */; };
+		736A79BE81013A46388AD3A4 /* Pods_Runner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BD90896B34CDB19DEC97500A /* Pods_Runner.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		014EBC702ADD191200089A37 /* mgicTape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mgicTape.swift; sourceTree = "<group>"; };
+		014EBC712ADD191200089A37 /* tdyPurposeEcho.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tdyPurposeEcho.swift; sourceTree = "<group>"; };
+		014EBC722ADD191200089A37 /* writThroughPort.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = writThroughPort.swift; sourceTree = "<group>"; };
+		014EBC742ADD191200089A37 /* xcptFactoryFont.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = xcptFactoryFont.swift; sourceTree = "<group>"; };
+		014EBC752ADD191200089A37 /* prfixPresentHost.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = prfixPresentHost.swift; sourceTree = "<group>"; };
+		014EBC762ADD191200089A37 /* frthIdentifyItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = frthIdentifyItem.swift; sourceTree = "<group>"; };
+		014EBC772ADD191200089A37 /* stpEvaluateStay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = stpEvaluateStay.swift; sourceTree = "<group>"; };
+		014EBC782ADD191200089A37 /* limitBackwardJust.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = limitBackwardJust.swift; sourceTree = "<group>"; };
+		014EBC792ADD191200089A37 /* csIndustryCopy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = csIndustryCopy.swift; sourceTree = "<group>"; };
+		014EBC7A2ADD191200089A37 /* gidAnnounceBase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = gidAnnounceBase.swift; sourceTree = "<group>"; };
+		014EBC7B2ADD191200089A37 /* lpsAnnounceTrim.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = lpsAnnounceTrim.swift; sourceTree = "<group>"; };
+		014EBC7C2ADD191200089A37 /* ngtEllipsisKilo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ngtEllipsisKilo.swift; sourceTree = "<group>"; };
+		014EBC7D2ADD191200089A37 /* grnHistoryBoth.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = grnHistoryBoth.swift; sourceTree = "<group>"; };
+		014EBC7F2ADD191200089A37 /* dcidLinkageDrum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = dcidLinkageDrum.swift; sourceTree = "<group>"; };
+		014EBC802ADD191200089A37 /* drivWork.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = drivWork.swift; sourceTree = "<group>"; };
+		014EBC812ADD191200089A37 /* hbitFilenameLast.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = hbitFilenameLast.swift; sourceTree = "<group>"; };
+		014EBC822ADD191200089A37 /* rrdAmpersandMode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = rrdAmpersandMode.swift; sourceTree = "<group>"; };
+		014EBC832ADD191200089A37 /* bttmAddressRate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = bttmAddressRate.swift; sourceTree = "<group>"; };
+		014EBC842ADD191200089A37 /* rsReinstateShut.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = rsReinstateShut.swift; sourceTree = "<group>"; };
+		014EBC852ADD191200089A37 /* thrCombineRate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = thrCombineRate.swift; sourceTree = "<group>"; };
+		014EBC862ADD191200089A37 /* vlCriterionSave.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = vlCriterionSave.swift; sourceTree = "<group>"; };
+		014EBC872ADD191200089A37 /* firstCurrentRead.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = firstCurrentRead.swift; sourceTree = "<group>"; };
+		014EBC882ADD191200089A37 /* invntEquipmentCash.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = invntEquipmentCash.swift; sourceTree = "<group>"; };
+		014EBC892ADD191200089A37 /* dlyUnderlineMean.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = dlyUnderlineMean.swift; sourceTree = "<group>"; };
+		014EBC8A2ADD191200089A37 /* tgglReferenceFree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tgglReferenceFree.swift; sourceTree = "<group>"; };
+		014EBC8B2ADD191200089A37 /* qDiscussLeft.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = qDiscussLeft.swift; sourceTree = "<group>"; };
+		014EBC8C2ADD191200089A37 /* wrInterveneShip.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = wrInterveneShip.swift; sourceTree = "<group>"; };
+		014EBC8D2ADD191200089A37 /* sbstInitiateWise.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = sbstInitiateWise.swift; sourceTree = "<group>"; };
+		014EBC8E2ADD191200089A37 /* rstRedefineYear.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = rstRedefineYear.swift; sourceTree = "<group>"; };
+		014EBC902ADD191200089A37 /* mrginCompanyFace.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mrginCompanyFace.swift; sourceTree = "<group>"; };
+		014EBC912ADD191200089A37 /* jctUnknownNull.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = jctUnknownNull.swift; sourceTree = "<group>"; };
+		014EBC922ADD191200089A37 /* prfixThen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = prfixThen.swift; sourceTree = "<group>"; };
+		014EBC932ADD191200089A37 /* strngAccidentMean.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = strngAccidentMean.swift; sourceTree = "<group>"; };
+		014EBC942ADD191200089A37 /* pnlSemicolonWish.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pnlSemicolonWish.swift; sourceTree = "<group>"; };
+		014EBC952ADD191200089A37 /* srisMidnightFlow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = srisMidnightFlow.swift; sourceTree = "<group>"; };
+		014EBC962ADD191200089A37 /* ffctExcludeAlso.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ffctExcludeAlso.swift; sourceTree = "<group>"; };
+		014EBC972ADD191200089A37 /* prstExtractItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = prstExtractItem.swift; sourceTree = "<group>"; };
+		014EBC992ADD191200089A37 /* mgicViolateView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mgicViolateView.swift; sourceTree = "<group>"; };
+		014EBC9A2ADD191200089A37 /* pstFilenameBand.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pstFilenameBand.swift; sourceTree = "<group>"; };
+		014EBC9B2ADD191200089A37 /* btTraverseKind.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = btTraverseKind.swift; sourceTree = "<group>"; };
+		014EBC9C2ADD191200089A37 /* kypdDisappearHard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = kypdDisappearHard.swift; sourceTree = "<group>"; };
+		014EBC9D2ADD191200089A37 /* intndMessageNote.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = intndMessageNote.swift; sourceTree = "<group>"; };
+		014EBC9E2ADD191200089A37 /* drivWord.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = drivWord.swift; sourceTree = "<group>"; };
+		014EBC9F2ADD191200089A37 /* prmitSuspendOnto.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = prmitSuspendOnto.swift; sourceTree = "<group>"; };
+		014EBCA02ADD191200089A37 /* bjctMagentaLess.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = bjctMagentaLess.swift; sourceTree = "<group>"; };
+		014EBCA12ADD191200089A37 /* crssInstructNull.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = crssInstructNull.swift; sourceTree = "<group>"; };
+		014EBCA22ADD191200089A37 /* drivTensionFlag.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = drivTensionFlag.swift; sourceTree = "<group>"; };
+		014EBCA32ADD191200089A37 /* lrgRetrieveGive.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = lrgRetrieveGive.swift; sourceTree = "<group>"; };
+		014EBCA52ADD191200089A37 /* thghInstantRule.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = thghInstantRule.swift; sourceTree = "<group>"; };
+		014EBCA62ADD191200089A37 /* srchCompactCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = srchCompactCell.swift; sourceTree = "<group>"; };
+		014EBCA72ADD191200089A37 /* mrktUnshiftSide.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mrktUnshiftSide.swift; sourceTree = "<group>"; };
+		014EBCA82ADD191200089A37 /* clickAdvanceWait.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = clickAdvanceWait.swift; sourceTree = "<group>"; };
+		014EBCA92ADD191200089A37 /* grnContentWait.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = grnContentWait.swift; sourceTree = "<group>"; };
+		014EBCAA2ADD191200089A37 /* flshSubscriptPath.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = flshSubscriptPath.swift; sourceTree = "<group>"; };
+		014EBCAB2ADD191200089A37 /* lpsInterestHere.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = lpsInterestHere.swift; sourceTree = "<group>"; };
+		014EBCAC2ADD191200089A37 /* windwBackwardBeep.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = windwBackwardBeep.swift; sourceTree = "<group>"; };
+		014EBCAD2ADD191200089A37 /* middlSqueezeCrop.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = middlSqueezeCrop.swift; sourceTree = "<group>"; };
+		014EBCAE2ADD191200089A37 /* prgMinimumDisk.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = prgMinimumDisk.swift; sourceTree = "<group>"; };
+		014EBCAF2ADD191200089A37 /* chrtTransformView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = chrtTransformView.swift; sourceTree = "<group>"; };
+		014EBCB02ADD191200089A37 /* frcWelcomeLine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = frcWelcomeLine.swift; sourceTree = "<group>"; };
+		014EBCB12ADD191200089A37 /* qNumerousTape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = qNumerousTape.swift; sourceTree = "<group>"; };
+		014EBCB22ADD191200089A37 /* fifthSpecificTrue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = fifthSpecificTrue.swift; sourceTree = "<group>"; };
+		014EBCB32ADD191200089A37 /* lvlProduceRoot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = lvlProduceRoot.swift; sourceTree = "<group>"; };
+		014EBCB42ADD191200089A37 /* frthCompleteTell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = frthCompleteTell.swift; sourceTree = "<group>"; };
+		014EBCB52ADD191200089A37 /* srchControlThen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = srchControlThen.swift; sourceTree = "<group>"; };
+		014EBCB62ADD191200089A37 /* sttParagraphMega.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = sttParagraphMega.swift; sourceTree = "<group>"; };
+		014EBCB72ADD191200089A37 /* ftnPentiumHard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ftnPentiumHard.swift; sourceTree = "<group>"; };
+		014EBCBA2ADD191200089A37 /* mltiSeamlessHold.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mltiSeamlessHold.swift; sourceTree = "<group>"; };
+		014EBCBB2ADD191200089A37 /* psSeparateCore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = psSeparateCore.swift; sourceTree = "<group>"; };
+		014EBCBD2ADD191200089A37 /* xtndNecessaryBack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = xtndNecessaryBack.swift; sourceTree = "<group>"; };
+		014EBCBE2ADD191200089A37 /* crzInterfaceWide.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = crzInterfaceWide.swift; sourceTree = "<group>"; };
+		014EBCBF2ADD191200089A37 /* rdrwFragmentDisc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = rdrwFragmentDisc.swift; sourceTree = "<group>"; };
+		014EBCC02ADD191200089A37 /* chngRequireSize.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = chngRequireSize.swift; sourceTree = "<group>"; };
+		014EBCC12ADD191200089A37 /* wrCollapseHang.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = wrCollapseHang.swift; sourceTree = "<group>"; };
+		014EBCC22ADD191200089A37 /* tchConfusePlus.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tchConfusePlus.swift; sourceTree = "<group>"; };
+		014EBCC32ADD191200089A37 /* crsAccuracySize.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = crsAccuracySize.swift; sourceTree = "<group>"; };
+		014EBCC42ADD191200089A37 /* strmContrastGain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = strmContrastGain.swift; sourceTree = "<group>"; };
+		014EBCC52ADD191200089A37 /* slidCircuitMega.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = slidCircuitMega.swift; sourceTree = "<group>"; };
+		014EBCC62ADD191200089A37 /* dmgDescribeHeap.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = dmgDescribeHeap.swift; sourceTree = "<group>"; };
+		014EBCC72ADD191200089A37 /* lrnRespondCall.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = lrnRespondCall.swift; sourceTree = "<group>"; };
+		014EBCC82ADD191200089A37 /* mgicStay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mgicStay.swift; sourceTree = "<group>"; };
+		014EBCC92ADD191200089A37 /* ntrAlignmentTurn.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ntrAlignmentTurn.swift; sourceTree = "<group>"; };
+		014EBCCA2ADD191200089A37 /* mdlCompanyUpon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mdlCompanyUpon.swift; sourceTree = "<group>"; };
+		014EBCCB2ADD191200089A37 /* shrInquiryRoll.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = shrInquiryRoll.swift; sourceTree = "<group>"; };
+		014EBCCD2ADD191200089A37 /* lrnRespondSend.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = lrnRespondSend.swift; sourceTree = "<group>"; };
+		014EBCCE2ADD191200089A37 /* brwsThroughRoll.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = brwsThroughRoll.swift; sourceTree = "<group>"; };
+		014EBCCF2ADD191200089A37 /* clickContrastCopy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = clickContrastCopy.swift; sourceTree = "<group>"; };
+		0171EB552AD3AE81004CDEFD /* Runner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Runner.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0171EB582AD3AE81004CDEFD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		0171EB5C2AD3AE81004CDEFD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		0171EB5F2AD3AE81004CDEFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0171EB612AD3AE83004CDEFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0171EB642AD3AE83004CDEFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		0171EB662AD3AE83004CDEFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5840EA9831870068BCFDC2AA /* Pods-Runner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"; sourceTree = "<group>"; };
+		BD90896B34CDB19DEC97500A /* Pods_Runner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Runner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA48606A03CE53E067062111 /* Pods-Runner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0171EB522AD3AE81004CDEFD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				736A79BE81013A46388AD3A4 /* Pods_Runner.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		014EBC6F2ADD191200089A37 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				014EBCA02ADD191200089A37 /* bjctMagentaLess.swift */,
+				014EBCCE2ADD191200089A37 /* brwsThroughRoll.swift */,
+				014EBC832ADD191200089A37 /* bttmAddressRate.swift */,
+				014EBC9B2ADD191200089A37 /* btTraverseKind.swift */,
+				014EBCC02ADD191200089A37 /* chngRequireSize.swift */,
+				014EBCAF2ADD191200089A37 /* chrtTransformView.swift */,
+				014EBCA82ADD191200089A37 /* clickAdvanceWait.swift */,
+				014EBCCF2ADD191200089A37 /* clickContrastCopy.swift */,
+				014EBCC32ADD191200089A37 /* crsAccuracySize.swift */,
+				014EBCA12ADD191200089A37 /* crssInstructNull.swift */,
+				014EBCBE2ADD191200089A37 /* crzInterfaceWide.swift */,
+				014EBC792ADD191200089A37 /* csIndustryCopy.swift */,
+				014EBC7F2ADD191200089A37 /* dcidLinkageDrum.swift */,
+				014EBC892ADD191200089A37 /* dlyUnderlineMean.swift */,
+				014EBCC62ADD191200089A37 /* dmgDescribeHeap.swift */,
+				014EBCA22ADD191200089A37 /* drivTensionFlag.swift */,
+				014EBC9E2ADD191200089A37 /* drivWord.swift */,
+				014EBC802ADD191200089A37 /* drivWork.swift */,
+				014EBC962ADD191200089A37 /* ffctExcludeAlso.swift */,
+				014EBCB22ADD191200089A37 /* fifthSpecificTrue.swift */,
+				014EBC872ADD191200089A37 /* firstCurrentRead.swift */,
+				014EBCAA2ADD191200089A37 /* flshSubscriptPath.swift */,
+				014EBCB02ADD191200089A37 /* frcWelcomeLine.swift */,
+				014EBCB42ADD191200089A37 /* frthCompleteTell.swift */,
+				014EBC762ADD191200089A37 /* frthIdentifyItem.swift */,
+				014EBCB72ADD191200089A37 /* ftnPentiumHard.swift */,
+				014EBC7A2ADD191200089A37 /* gidAnnounceBase.swift */,
+				014EBCA92ADD191200089A37 /* grnContentWait.swift */,
+				014EBC7D2ADD191200089A37 /* grnHistoryBoth.swift */,
+				014EBC812ADD191200089A37 /* hbitFilenameLast.swift */,
+				014EBC9D2ADD191200089A37 /* intndMessageNote.swift */,
+				014EBC882ADD191200089A37 /* invntEquipmentCash.swift */,
+				014EBC912ADD191200089A37 /* jctUnknownNull.swift */,
+				014EBC9C2ADD191200089A37 /* kypdDisappearHard.swift */,
+				014EBC782ADD191200089A37 /* limitBackwardJust.swift */,
+				014EBC7B2ADD191200089A37 /* lpsAnnounceTrim.swift */,
+				014EBCAB2ADD191200089A37 /* lpsInterestHere.swift */,
+				014EBCA32ADD191200089A37 /* lrgRetrieveGive.swift */,
+				014EBCC72ADD191200089A37 /* lrnRespondCall.swift */,
+				014EBCCD2ADD191200089A37 /* lrnRespondSend.swift */,
+				014EBCB32ADD191200089A37 /* lvlProduceRoot.swift */,
+				014EBCCA2ADD191200089A37 /* mdlCompanyUpon.swift */,
+				014EBCC82ADD191200089A37 /* mgicStay.swift */,
+				014EBC702ADD191200089A37 /* mgicTape.swift */,
+				014EBC992ADD191200089A37 /* mgicViolateView.swift */,
+				014EBCAD2ADD191200089A37 /* middlSqueezeCrop.swift */,
+				014EBCBA2ADD191200089A37 /* mltiSeamlessHold.swift */,
+				014EBC902ADD191200089A37 /* mrginCompanyFace.swift */,
+				014EBCA72ADD191200089A37 /* mrktUnshiftSide.swift */,
+				014EBC7C2ADD191200089A37 /* ngtEllipsisKilo.swift */,
+				014EBCC92ADD191200089A37 /* ntrAlignmentTurn.swift */,
+				014EBC942ADD191200089A37 /* pnlSemicolonWish.swift */,
+				014EBC752ADD191200089A37 /* prfixPresentHost.swift */,
+				014EBC922ADD191200089A37 /* prfixThen.swift */,
+				014EBCAE2ADD191200089A37 /* prgMinimumDisk.swift */,
+				014EBC9F2ADD191200089A37 /* prmitSuspendOnto.swift */,
+				014EBC972ADD191200089A37 /* prstExtractItem.swift */,
+				014EBCBB2ADD191200089A37 /* psSeparateCore.swift */,
+				014EBC9A2ADD191200089A37 /* pstFilenameBand.swift */,
+				014EBC8B2ADD191200089A37 /* qDiscussLeft.swift */,
+				014EBCB12ADD191200089A37 /* qNumerousTape.swift */,
+				014EBCBF2ADD191200089A37 /* rdrwFragmentDisc.swift */,
+				014EBC822ADD191200089A37 /* rrdAmpersandMode.swift */,
+				014EBC842ADD191200089A37 /* rsReinstateShut.swift */,
+				014EBC8E2ADD191200089A37 /* rstRedefineYear.swift */,
+				014EBC8D2ADD191200089A37 /* sbstInitiateWise.swift */,
+				014EBCCB2ADD191200089A37 /* shrInquiryRoll.swift */,
+				014EBCC52ADD191200089A37 /* slidCircuitMega.swift */,
+				014EBCA62ADD191200089A37 /* srchCompactCell.swift */,
+				014EBCB52ADD191200089A37 /* srchControlThen.swift */,
+				014EBC952ADD191200089A37 /* srisMidnightFlow.swift */,
+				014EBC772ADD191200089A37 /* stpEvaluateStay.swift */,
+				014EBCC42ADD191200089A37 /* strmContrastGain.swift */,
+				014EBC932ADD191200089A37 /* strngAccidentMean.swift */,
+				014EBCB62ADD191200089A37 /* sttParagraphMega.swift */,
+				014EBCC22ADD191200089A37 /* tchConfusePlus.swift */,
+				014EBC712ADD191200089A37 /* tdyPurposeEcho.swift */,
+				014EBC8A2ADD191200089A37 /* tgglReferenceFree.swift */,
+				014EBCA52ADD191200089A37 /* thghInstantRule.swift */,
+				014EBC852ADD191200089A37 /* thrCombineRate.swift */,
+				014EBC862ADD191200089A37 /* vlCriterionSave.swift */,
+				014EBCAC2ADD191200089A37 /* windwBackwardBeep.swift */,
+				014EBCC12ADD191200089A37 /* wrCollapseHang.swift */,
+				014EBC8C2ADD191200089A37 /* wrInterveneShip.swift */,
+				014EBC722ADD191200089A37 /* writThroughPort.swift */,
+				014EBC742ADD191200089A37 /* xcptFactoryFont.swift */,
+				014EBCBD2ADD191200089A37 /* xtndNecessaryBack.swift */,
+			);
+			path = Classes;
+			sourceTree = SOURCE_ROOT;
+		};
+		0171EB4C2AD3AE81004CDEFD = {
+			isa = PBXGroup;
+			children = (
+				0171EB572AD3AE81004CDEFD /* Runner */,
+				0171EB562AD3AE81004CDEFD /* Products */,
+				E57DBD018D5B833100FAC28C /* Pods */,
+				DD38D4E0D42BE93B7985CCC3 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		0171EB562AD3AE81004CDEFD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0171EB552AD3AE81004CDEFD /* Runner.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0171EB572AD3AE81004CDEFD /* Runner */ = {
+			isa = PBXGroup;
+			children = (
+				014EBC6F2ADD191200089A37 /* Classes */,
+				0171EB582AD3AE81004CDEFD /* AppDelegate.swift */,
+				0171EB5C2AD3AE81004CDEFD /* ViewController.swift */,
+				0171EB5E2AD3AE81004CDEFD /* Main.storyboard */,
+				0171EB612AD3AE83004CDEFD /* Assets.xcassets */,
+				0171EB632AD3AE83004CDEFD /* LaunchScreen.storyboard */,
+				0171EB662AD3AE83004CDEFD /* Info.plist */,
+			);
+			path = Runner;
+			sourceTree = "<group>";
+		};
+		DD38D4E0D42BE93B7985CCC3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BD90896B34CDB19DEC97500A /* Pods_Runner.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E57DBD018D5B833100FAC28C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				5840EA9831870068BCFDC2AA /* Pods-Runner.debug.xcconfig */,
+				FA48606A03CE53E067062111 /* Pods-Runner.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0171EB542AD3AE81004CDEFD /* Runner */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0171EB692AD3AE83004CDEFD /* Build configuration list for PBXNativeTarget "Runner" */;
+			buildPhases = (
+				301B3C2E8D680CFAAAF7E30A /* [CP] Check Pods Manifest.lock */,
+				0171EB512AD3AE81004CDEFD /* Sources */,
+				0171EB522AD3AE81004CDEFD /* Frameworks */,
+				0171EB532AD3AE81004CDEFD /* Resources */,
+				260266D3280F2EB8F50301E1 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Runner;
+			productName = Runner;
+			productReference = 0171EB552AD3AE81004CDEFD /* Runner.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0171EB4D2AD3AE81004CDEFD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					0171EB542AD3AE81004CDEFD = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = 0171EB502AD3AE81004CDEFD /* Build configuration list for PBXProject "Runner" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0171EB4C2AD3AE81004CDEFD;
+			productRefGroup = 0171EB562AD3AE81004CDEFD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0171EB542AD3AE81004CDEFD /* Runner */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0171EB532AD3AE81004CDEFD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0171EB652AD3AE83004CDEFD /* LaunchScreen.storyboard in Resources */,
+				0171EB622AD3AE83004CDEFD /* Assets.xcassets in Resources */,
+				0171EB602AD3AE81004CDEFD /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		260266D3280F2EB8F50301E1 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		301B3C2E8D680CFAAAF7E30A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Runner-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0171EB512AD3AE81004CDEFD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				014EBCD52ADD191200089A37 /* frthIdentifyItem.swift in Sources */,
+				014EBD1C2ADD191200089A37 /* strmContrastGain.swift in Sources */,
+				014EBCEC2ADD191200089A37 /* rstRedefineYear.swift in Sources */,
+				014EBCD32ADD191200089A37 /* xcptFactoryFont.swift in Sources */,
+				014EBCD72ADD191200089A37 /* limitBackwardJust.swift in Sources */,
+				014EBCDB2ADD191200089A37 /* ngtEllipsisKilo.swift in Sources */,
+				014EBCE32ADD191200089A37 /* thrCombineRate.swift in Sources */,
+				014EBCFF2ADD191200089A37 /* lrgRetrieveGive.swift in Sources */,
+				014EBCE22ADD191200089A37 /* rsReinstateShut.swift in Sources */,
+				014EBD142ADD191200089A37 /* psSeparateCore.swift in Sources */,
+				014EBD262ADD191200089A37 /* clickContrastCopy.swift in Sources */,
+				014EBCD02ADD191200089A37 /* mgicTape.swift in Sources */,
+				014EBD0D2ADD191200089A37 /* fifthSpecificTrue.swift in Sources */,
+				014EBCDC2ADD191200089A37 /* grnHistoryBoth.swift in Sources */,
+				014EBD212ADD191200089A37 /* ntrAlignmentTurn.swift in Sources */,
+				014EBCE62ADD191200089A37 /* invntEquipmentCash.swift in Sources */,
+				014EBD052ADD191200089A37 /* flshSubscriptPath.swift in Sources */,
+				014EBCE52ADD191200089A37 /* firstCurrentRead.swift in Sources */,
+				014EBD062ADD191200089A37 /* lpsInterestHere.swift in Sources */,
+				014EBD032ADD191200089A37 /* clickAdvanceWait.swift in Sources */,
+				014EBCF72ADD191200089A37 /* btTraverseKind.swift in Sources */,
+				014EBCD22ADD191200089A37 /* writThroughPort.swift in Sources */,
+				014EBCFE2ADD191200089A37 /* drivTensionFlag.swift in Sources */,
+				014EBD162ADD191200089A37 /* crzInterfaceWide.swift in Sources */,
+				014EBD002ADD191200089A37 /* thghInstantRule.swift in Sources */,
+				014EBD042ADD191200089A37 /* grnContentWait.swift in Sources */,
+				014EBCDD2ADD191200089A37 /* dcidLinkageDrum.swift in Sources */,
+				014EBD1D2ADD191200089A37 /* slidCircuitMega.swift in Sources */,
+				014EBCE42ADD191200089A37 /* vlCriterionSave.swift in Sources */,
+				014EBCD12ADD191200089A37 /* tdyPurposeEcho.swift in Sources */,
+				014EBD012ADD191200089A37 /* srchCompactCell.swift in Sources */,
+				014EBD0A2ADD191200089A37 /* chrtTransformView.swift in Sources */,
+				014EBD222ADD191200089A37 /* mdlCompanyUpon.swift in Sources */,
+				014EBD1E2ADD191200089A37 /* dmgDescribeHeap.swift in Sources */,
+				014EBCF52ADD191200089A37 /* mgicViolateView.swift in Sources */,
+				014EBCF12ADD191200089A37 /* pnlSemicolonWish.swift in Sources */,
+				014EBCE82ADD191200089A37 /* tgglReferenceFree.swift in Sources */,
+				014EBD082ADD191200089A37 /* middlSqueezeCrop.swift in Sources */,
+				014EBCFD2ADD191200089A37 /* crssInstructNull.swift in Sources */,
+				014EBCEE2ADD191200089A37 /* jctUnknownNull.swift in Sources */,
+				014EBCFC2ADD191200089A37 /* bjctMagentaLess.swift in Sources */,
+				014EBD202ADD191200089A37 /* mgicStay.swift in Sources */,
+				014EBD102ADD191200089A37 /* srchControlThen.swift in Sources */,
+				014EBD242ADD191200089A37 /* lrnRespondSend.swift in Sources */,
+				014EBCF62ADD191200089A37 /* pstFilenameBand.swift in Sources */,
+				014EBCF92ADD191200089A37 /* intndMessageNote.swift in Sources */,
+				014EBCD92ADD191200089A37 /* gidAnnounceBase.swift in Sources */,
+				014EBD1F2ADD191200089A37 /* lrnRespondCall.swift in Sources */,
+				014EBD182ADD191200089A37 /* chngRequireSize.swift in Sources */,
+				014EBD252ADD191200089A37 /* brwsThroughRoll.swift in Sources */,
+				0171EB5D2AD3AE81004CDEFD /* ViewController.swift in Sources */,
+				014EBCFA2ADD191200089A37 /* drivWord.swift in Sources */,
+				014EBD022ADD191200089A37 /* mrktUnshiftSide.swift in Sources */,
+				014EBD232ADD191200089A37 /* shrInquiryRoll.swift in Sources */,
+				014EBCDA2ADD191200089A37 /* lpsAnnounceTrim.swift in Sources */,
+				014EBCEF2ADD191200089A37 /* prfixThen.swift in Sources */,
+				0171EB592AD3AE81004CDEFD /* AppDelegate.swift in Sources */,
+				014EBCED2ADD191200089A37 /* mrginCompanyFace.swift in Sources */,
+				014EBCF32ADD191200089A37 /* ffctExcludeAlso.swift in Sources */,
+				014EBCE02ADD191200089A37 /* rrdAmpersandMode.swift in Sources */,
+				014EBCEA2ADD191200089A37 /* wrInterveneShip.swift in Sources */,
+				014EBCDF2ADD191200089A37 /* hbitFilenameLast.swift in Sources */,
+				014EBCD82ADD191200089A37 /* csIndustryCopy.swift in Sources */,
+				014EBCDE2ADD191200089A37 /* drivWork.swift in Sources */,
+				014EBD1A2ADD191200089A37 /* tchConfusePlus.swift in Sources */,
+				014EBD0F2ADD191200089A37 /* frthCompleteTell.swift in Sources */,
+				014EBD0B2ADD191200089A37 /* frcWelcomeLine.swift in Sources */,
+				014EBCEB2ADD191200089A37 /* sbstInitiateWise.swift in Sources */,
+				014EBCE12ADD191200089A37 /* bttmAddressRate.swift in Sources */,
+				014EBD192ADD191200089A37 /* wrCollapseHang.swift in Sources */,
+				014EBCD42ADD191200089A37 /* prfixPresentHost.swift in Sources */,
+				014EBCF82ADD191200089A37 /* kypdDisappearHard.swift in Sources */,
+				014EBD092ADD191200089A37 /* prgMinimumDisk.swift in Sources */,
+				014EBCFB2ADD191200089A37 /* prmitSuspendOnto.swift in Sources */,
+				014EBCF42ADD191200089A37 /* prstExtractItem.swift in Sources */,
+				014EBD0C2ADD191200089A37 /* qNumerousTape.swift in Sources */,
+				014EBD112ADD191200089A37 /* sttParagraphMega.swift in Sources */,
+				014EBD0E2ADD191200089A37 /* lvlProduceRoot.swift in Sources */,
+				014EBCD62ADD191200089A37 /* stpEvaluateStay.swift in Sources */,
+				014EBD122ADD191200089A37 /* ftnPentiumHard.swift in Sources */,
+				014EBCE72ADD191200089A37 /* dlyUnderlineMean.swift in Sources */,
+				014EBD132ADD191200089A37 /* mltiSeamlessHold.swift in Sources */,
+				014EBD072ADD191200089A37 /* windwBackwardBeep.swift in Sources */,
+				014EBD1B2ADD191200089A37 /* crsAccuracySize.swift in Sources */,
+				014EBCF02ADD191200089A37 /* strngAccidentMean.swift in Sources */,
+				014EBCE92ADD191200089A37 /* qDiscussLeft.swift in Sources */,
+				014EBD152ADD191200089A37 /* xtndNecessaryBack.swift in Sources */,
+				014EBCF22ADD191200089A37 /* srisMidnightFlow.swift in Sources */,
+				014EBD172ADD191200089A37 /* rdrwFragmentDisc.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		0171EB5E2AD3AE81004CDEFD /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0171EB5F2AD3AE81004CDEFD /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		0171EB632AD3AE83004CDEFD /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0171EB642AD3AE83004CDEFD /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		0171EB672AD3AE83004CDEFD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		0171EB682AD3AE83004CDEFD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0171EB6A2AD3AE83004CDEFD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5840EA9831870068BCFDC2AA /* Pods-Runner.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = WhiteWhale.Runner;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0171EB6B2AD3AE83004CDEFD /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA48606A03CE53E067062111 /* Pods-Runner.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Runner/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = WhiteWhale.Runner;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0171EB502AD3AE81004CDEFD /* Build configuration list for PBXProject "Runner" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0171EB672AD3AE83004CDEFD /* Debug */,
+				0171EB682AD3AE83004CDEFD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0171EB692AD3AE83004CDEFD /* Build configuration list for PBXNativeTarget "Runner" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0171EB6A2AD3AE83004CDEFD /* Debug */,
+				0171EB6B2AD3AE83004CDEFD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0171EB4D2AD3AE81004CDEFD /* Project object */;
+}

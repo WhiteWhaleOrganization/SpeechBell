@@ -1,0 +1,54 @@
+PODS:
+  - Alamofire (5.8.0)
+  - AutoInch (2.4.1)
+  - HandyJSON (5.0.2)
+  - IQKeyboardManagerSwift (6.5.12)
+  - Kingfisher (7.9.1)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - RZColorfulSwift (0.5.0)
+  - SnapKit (5.6.0)
+  - SwiftyJSON (5.0.1)
+  - WKToast (0.0.1)
+
+DEPENDENCIES:
+  - AutoInch
+  - HandyJSON
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - Moya
+  - RZColorfulSwift
+  - SnapKit
+  - SwiftyJSON
+  - WKToast
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AutoInch
+    - HandyJSON
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - Moya
+    - RZColorfulSwift
+    - SnapKit
+    - SwiftyJSON
+    - WKToast
+
+SPEC CHECKSUMS:
+  Alamofire: 0e92e751b3e9e66d7982db43919d01f313b8eb91
+  AutoInch: 4d69de92c4c54b71352d67d07dcb6d9e5d1e546a
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  IQKeyboardManagerSwift: 371b08cb39664fb56030f5345c815a4ffc74bbc0
+  Kingfisher: 1d14e9f59cbe19389f591c929000332bf70efd32
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  RZColorfulSwift: c4cb0c4668a77a9a1b5cb1a884f6ae20f2be3f58
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  WKToast: d1a9b092c02f9de5a411ff4f53c3e40ad4870968
+
+PODFILE CHECKSUM: bd447cfb2aeb33ec1e992d5ff36b902661405e84
+
+COCOAPODS: 1.12.0
